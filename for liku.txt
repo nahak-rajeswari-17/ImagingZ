@@ -1,0 +1,3 @@
+to run the app "npm run dev"
+next.js provides server actions
+typescript is the framework for serverless functions in the app
